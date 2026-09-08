@@ -14,8 +14,8 @@ A Flutter app UI recreation featuring onboarding, sign-up, and home screens with
 cd trusty_app
 3. Install dependencies:
  Run 'flutter pub get' in Terminal Window
-5. Run the app:
-6. Run 'flutter run' in Terminal Window
+4. Run the app:
+ Run 'flutter run' in Terminal Window
    
 ## Project Structure
 
